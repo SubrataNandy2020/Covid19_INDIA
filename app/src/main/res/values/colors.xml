@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="cases">#FFA726</color>
+    <color name="death">#F30505</color>
+    <color name="active">#445BE4</color>
+    <color name="recovered">#4AFF24</color>
+    <color name="india">#07E4FF</color>
+    <color name="no">#92F015</color>
+
+</resources>
